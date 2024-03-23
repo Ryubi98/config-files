@@ -1,0 +1,5 @@
+[user]
+  name = Antonin Ginet
+  email = agintonin98@gmail.com
+[core]
+  excludesfile = /Users/antoin/.gitignore_global
