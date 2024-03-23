@@ -1,0 +1,90 @@
+{
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.iconTheme": "material-icon-theme",
+
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "editor.inlineSuggest.showToolbar": "always",
+  "editor.linkedEditing": true,
+
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode"
+  },
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "search.useIgnoreFiles": false,
+
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.external.osxExec": "iTerm2.app",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  "git.confirmSync": false,
+  "git.ignoreRebaseWarning": true,
+  "gitlens.hovers.currentLine.over": "line",
+
+  "docker.containers.label": "ContainerName",
+  "docker.containers.description": ["Image", "Ports", "Status"],
+
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+
+  "indentRainbow.indicatorStyle": "light",
+  "indentRainbow.lightIndicatorStyleLineWidth": 1,
+  "indentRainbow.colors": [
+    "rgba(255,255,64,0.3)",
+    "rgba(127,255,127,0.3)",
+    "rgba(255,127,255,0.3)",
+    "rgba(79,236,236,0.3)"
+  ],
+
+  "liveshare.connectionMode": "relay",
+
+  "svg.preview.mode": "svg",
+
+  "npm.enableRunFromFolder": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  "sonarlint.pathToNodeExecutable": "/Users/antonin/.nvm/versions/node/v20.11.1/bin/node",
+
+  "java.completion.importOrder": ["#"],
+  "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/openjdk21.jdk/Contents/Home",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "/Library/Java/JavaVirtualMachines/openjdk21.jdk/Contents/Home",
+      "default": true
+    },
+    {
+      "name": "JavaSE-17",
+      "path": "/Library/Java/JavaVirtualMachines/openjdk17.jdk/Contents/Home"
+    },
+    {
+      "name": "JavaSE-11",
+      "path": "/Library/Java/JavaVirtualMachines/openjdk11.jdk/Contents/Home"
+    }
+  ],
+  "boot-java.scan-java-test-sources.on": true,
+  "java.import.gradle.java.home": "/Library/Java/JavaVirtualMachines/openjdk21.jdk/Contents/Home",
+  "gradle.nestedProjects": true
+}
