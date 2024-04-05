@@ -1,3 +1,4 @@
+direnv
 ffmpeg
 imagemagick
 jenv
