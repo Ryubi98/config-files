@@ -22,6 +22,7 @@ jetbrains-toolbox
 keka
 latest
 logi-options-plus
+maccy
 macwhisper
 microsoft-auto-update
 microsoft-excel
