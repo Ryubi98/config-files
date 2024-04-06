@@ -2,5 +2,4 @@
   name = Antonin Ginet
   email = agintonin98@gmail.com
 [core]
-  sshCommand = "ssh -i ~/.ssh/git"
   excludesfile = ~/.gitignore_global
