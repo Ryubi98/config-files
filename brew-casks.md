@@ -22,6 +22,11 @@ keka
 latest
 logi-options-plus
 macwhisper
+microsoft-auto-update
+microsoft-excel
+microsoft-outlook
+microsoft-powerpoint
+microsoft-teams
 minecraft
 molotov
 monitorcontrol
