@@ -1,0 +1,11 @@
+ffmpeg
+imagemagick
+nvm
+openjdk
+openjdk@11
+openjdk@17
+pandoc
+telnet
+tldr
+tree
+wget
