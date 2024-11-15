@@ -1,6 +1,7 @@
 alt-tab
 appcleaner
 arc
+betterdisplay
 bitwarden
 darktable
 dbeaver-community
@@ -21,7 +22,6 @@ itsycal
 jetbrains-toolbox
 keka
 latest
-logi-options-plus
 maccy
 macwhisper
 microsoft-auto-update
@@ -31,7 +31,6 @@ microsoft-powerpoint
 microsoft-teams
 minecraft
 molotov
-monitorcontrol
 notion
 obsidian
 plex-media-server
@@ -40,8 +39,9 @@ rectangle
 shottr
 slack
 spotify
-stats
 steam
 upscayl
 visual-studio-code
 vlc
+zed
+zwift

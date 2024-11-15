@@ -2,6 +2,8 @@ direnv
 ffmpeg
 imagemagick
 jenv
+libpq
+mysql-client
 nvm
 openjdk
 openjdk@11
@@ -12,3 +14,4 @@ telnet
 tldr
 tree
 wget
+yt-dlp
