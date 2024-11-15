@@ -68,7 +68,7 @@
   "sonarlint.pathToNodeExecutable": "/Users/antonin/.nvm/versions/node/v20.11.1/bin/node",
 
   "java.completion.importOrder": ["#"],
-  "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/openjdk21.jdk/Contents/Home",
+  "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/openjdk17.jdk/Contents/Home",
   "java.configuration.runtimes": [
     {
       "name": "JavaSE-21",
@@ -85,6 +85,6 @@
     }
   ],
   "boot-java.scan-java-test-sources.on": true,
-  "java.import.gradle.java.home": "/Library/Java/JavaVirtualMachines/openjdk21.jdk/Contents/Home",
+  "java.import.gradle.java.home": "/Library/Java/JavaVirtualMachines/openjdk17.jdk/Contents/Home",
   "gradle.nestedProjects": true
 }
