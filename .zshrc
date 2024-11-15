@@ -103,6 +103,8 @@ export EDITOR="vim"
 
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
+eval "$(direnv hook zsh)"
+
 export PATH="$HOME/.jenv/bin:$PATH"
 eval "$(jenv init -)"
 
