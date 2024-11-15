@@ -20,7 +20,7 @@ itsycal
 jetbrains-toolbox
 keka
 latest
-logitech-options
+logi-options-plus
 macwhisper
 minecraft
 molotov
