@@ -3,3 +3,4 @@
   email = agintonin98@gmail.com
 [core]
   excludesfile = ~/.gitignore_global
+  sshCommand = ssh -i ~/.ssh/git -F /dev/null
