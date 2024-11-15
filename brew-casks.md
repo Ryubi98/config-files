@@ -6,6 +6,7 @@ darktable
 dbeaver-community
 diffusionbee
 discord
+docker
 dropzone
 epic-games
 figma
